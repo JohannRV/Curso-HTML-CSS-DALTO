@@ -1,0 +1,15 @@
+h1{ 
+    color: blue;
+    text-align: center;
+}
+li{
+    color: rgb(98, 218, 0);
+}
+.ingrediente-faltante {
+    color: red;
+
+}
+#Ingrediente-especial {
+    color: rgb(183, 0, 255);
+
+}

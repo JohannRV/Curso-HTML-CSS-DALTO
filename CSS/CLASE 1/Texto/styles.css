@@ -1,0 +1,31 @@
+#internas{
+    color: red;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 1.4;
+    text-transform: initial;
+}
+#externas{
+    color: rgb(0, 104, 73);
+    font-family: "Libertinus Sans";
+    font-size: 15px;
+    text-align: justify;
+    line-height: 1.4;
+    text-transform: initial;
+    font-weight: 500;
+}
+body
+{
+    background-color: rgb(250, 250, 250);
+}
+h1{
+    color: rgb(2, 132, 219);
+    font-family: serif;
+    font-size: 25px;
+    font-weight: 100;
+    letter-spacing: 50;
+    font-weight: bold;
+
+
+}

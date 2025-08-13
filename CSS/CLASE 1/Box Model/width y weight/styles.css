@@ -1,0 +1,15 @@
+.box{
+    width: 200px; /* Ancho de la caja */
+    height: 100px; /* Altura de la caja */
+    background-color: lightblue; /* Color de fondo de la caja */
+    border: 2px solid blue; /* Borde de la caja */
+
+}
+form{
+    width: 80%; /* Ancho del formulario */
+    height: 80%; /* Altura del formulario */
+}
+
+input{
+    width: 50%;
+}

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Libertinus Sans';
+    src: url("fonts/LibertinusSans-Regular.ttf") format('truetype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Libertinus Sans';
+    src: url("fonts/LibertinusSans-Bold.ttf") format('truetype');
+    font-weight: 900;
+}

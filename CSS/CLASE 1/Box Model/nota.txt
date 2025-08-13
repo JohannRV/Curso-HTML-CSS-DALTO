@@ -1,0 +1,7 @@
+Cada elemento de una pagina estructurada en HTML es una caja.
+Esta caja tiene 4 partes: margin, border, relleno y content
+El modelo de caja es un concepto fundamental en CSS y es esencial para entender cómo se diseñan y estructuran las páginas web.
+Content: El contenido real del elemento, como texto o imágenes.
+Padding (relleno): El espacio entre el contenido y el borde. Se utiliza para crear espacio alrededor del contenido.
+Border (borde): El borde que rodea el relleno (si existe) y el contenido.
+Margin (margen): El espacio entre el borde del elemento (caja) y las cajas restantes.
